@@ -1,1 +1,1 @@
-a library book system
+A library book system used in terminal
